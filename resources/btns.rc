@@ -1,0 +1,15 @@
+png_btnClose            RCDATA btnClose.png
+png_btnCloseHot         RCDATA btnCloseHot.png
+png_btnMax              RCDATA btnMax.png
+png_btnMaxHot           RCDATA btnMaxHot.png
+png_btnMin              RCDATA btnMin.png
+png_btnMinHot           RCDATA btnMinHot.png
+png_btnFileTransf       RCDATA btnFileTransf.png
+png_btnFileTransfHot    RCDATA btnFileTransfHot.png
+png_btnVNC              RCDATA btnVNC.png
+png_btnVNCHot           RCDATA btnVNCHot.png
+png_btnViewer           RCDATA btnViewer.png
+png_btnViewerHot        RCDATA btnViewerHot.png
+png_btnNO               RCDATA btnNO.png
+png_btnNOHot            RCDATA btnNOHot.png
+png_Talk                RCDATA Talk.png
