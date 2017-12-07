@@ -747,7 +747,7 @@ end;
 {$IF CompilerVersion <= 18.5}
 function TRasterImageHeper.SupportsPartialTransparency(): Boolean;
 begin
-  Result := TransparencyMode <> ptmPartial;
+  Result := TransparencyMode = ptmPartial;
 end;
 {$IFEND}
 
